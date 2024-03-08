@@ -4,13 +4,13 @@ h1 {
 }
 
 .header{
-    background-color: lightblue;
+    background-color:gold;
     display: flex;
     justify-content: space-between;
     
 }
 .footer{
-background-color: darkred;
+background-color: black;
 display: flex;
 justify-content: flex-end;
 }
@@ -26,7 +26,7 @@ text-align: center;
 }
 
 .item{
-background-color: #433344;
+background-color:gold;
 position: relative;
 margin: 1.7%;
 
@@ -34,7 +34,7 @@ margin: 1.7%;
 }
 
 body {
-background-color: #808080;
+background-color:black;
 
 
 }
